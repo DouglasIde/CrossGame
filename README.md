@@ -41,7 +41,7 @@ the street, avoiding the cars that serve as obstacles. All the development was d
 <h1>🎶Soundtrack</h1>
 <p>Este projeto utiliza a música exclusivamente para fins acadêmicos e não possui qualquer objetivo lucrativo. A música é empregada unicamente para fins educativos dentro do contexto do projeto.</p>
 
-![Music Info](https://github.com/DouglasIde/CrossGame/blob/main/README_files/Musica_INFO.png)
+![Music Info](https://github.com/DouglasIde/CrossGame/blob/main/README_files/Musica_INFO_Fixed.png)
 
 <h1>📝Learning</h1>
 <li>Creating Player Interactions Using JavaScript</li>
